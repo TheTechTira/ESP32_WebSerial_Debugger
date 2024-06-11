@@ -19,3 +19,10 @@ Tutorial Guidance:
 Notes:
 - Remember to the the serial baud rates to match
 - Remember the browser is available at http://device_ip/webserial
+
+Connection Schematic:
+ESP Debugger - ESP Target
+RX2 on GPIO 16 to TX0 on GPIO01
+GND to GND
+Optional - 3.3v to 3.3v
+![image](https://github.com/TheTechTira/ESP32_WebSerial_Debugger/assets/50229911/2d3a7d10-5783-4f68-8f47-ccdadfc8e6da)
