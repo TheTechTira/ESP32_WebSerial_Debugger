@@ -34,8 +34,8 @@ Notes:
 
 AsyncWebServer server(80); // Create an AsyncWebServer object on port 80
 
-const char* ssid = "JVVHuis";          // Your WiFi SSID
-const char* password = "aweMAsekind";  // Your WiFi Password
+const char* ssid = "Your_SSID";          // Your WiFi SSID
+const char* password = "Your_Password";  // Your WiFi Password
 
 // Function to blink the LED while connecting to WiFi
 void blinkLEDWhileConnecting() {
